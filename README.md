@@ -6,7 +6,7 @@
 - [Funktionen](#funktionen)  
 - [Mockup](#mockup)  
 - [Umsetzung](#umsetzung)
-l
+
 ## Einleitung  
 Ich dokumentiere in diesem Projektjournal die Entwicklung meiner Website, die ich im Rahmen des Fachblocks 10 erstellt habe.
 
