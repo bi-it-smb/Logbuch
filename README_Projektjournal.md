@@ -21,7 +21,7 @@ Ich dokumentiere in diesem Projektjournal die Entwicklung meiner Website, die ic
 ## Mockup  
 Ich habe mithilfe von Figma ein Mockup erstellt, um das Design meiner Applikation zu planen. Hier ist ein Screenshot des Mockups:
 
-![Mockup der Applikation](mockup.PNG)
+![image](https://github.com/user-attachments/assets/f1429fbe-6a17-4f23-9f9e-ccf2b912c8ae)
 
 Ich habe vier verschiedene Kurse erstellt, die jeweils eine eigene Seite besitzen. Diese Seiten sind über die Navigation erreichbar. Die Kurse sind: *Wandern für Anfänger*, *Survival-Training*, *Bogenschiessen* und *Kräuterwanderung*.
 
