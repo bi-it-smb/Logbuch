@@ -6,7 +6,8 @@
 - [Funktionen](#funktionen)  
 - [Mockup](#mockup)
 - [UML-Klassendiagramm & Validation](#uml-klassendiagramm--validation)
-- [Umsetzung](#umsetzung)
+- [JSON](#json)
+- [Images](#images)
 
 ## Einleitung  
 Ich dokumentiere in diesem Projektjournal die Entwicklung meiner Website, die ich im Rahmen des Fachblocks 10 erstellt habe.
