@@ -11,7 +11,7 @@
 - [Images - Troubleshooting](#images---troubleshooting)
 
 ## Einleitung  
-Ich dokumentiere in diesem Projektjournal die Entwicklung meiner Website, die ich im Rahmen des Fachblocks 10 erstellt habe.
+In diesem Projektjournal dokumentiere ich die Entwicklung meiner Applikation, die ich im Rahmen des Fachblocks 10 erstellt habe.
 
 ## Verwendete Technologien  
 - **C#** – Zur Programmierung der Applikation  
