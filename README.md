@@ -7,7 +7,7 @@
 - [Mockup](#mockup)
 - [UML-Klassendiagramm & Validation](#uml-klassendiagramm--validation)
 - [JSON](#json)
-- [Images](#images)
+- [Images - Troubleshooting](#images---troubleshooting)
 
 ## Einleitung  
 Ich dokumentiere in diesem Projektjournal die Entwicklung meiner Website, die ich im Rahmen des Fachblocks 10 erstellt habe.
@@ -19,6 +19,18 @@ Ich dokumentiere in diesem Projektjournal die Entwicklung meiner Website, die ic
 ## Funktionen  
 - Interaktive Navigation  
 - Bewertungssystem für Kurse
+
+## Projektverlauf
+| Datum       | Aufgabe / Meilenstein            |
+|-------------|----------------------------------|
+| 2025-06-18  | Mockup angefangen                |
+| 2025-06-21  | Mockup fertiggestellt            |
+| 2025-06-25  | UML & Validation erstellt        |
+| 2025-06-25  | JSON überarbeitet                |
+| 2025-06-25  | .NET MAUI Projekt erstellt       |
+| 2025-06-27  | Images - Troubleshooting         |
+| 2025-07-02  | Detailseite erstellt & Navigation|
+
 
 ## Mockup  
 Ich habe mithilfe von Figma ein Mockup erstellt, um das Design meiner Applikation zu planen. Hier ist ein Screenshot des Mockups:
@@ -123,7 +135,7 @@ Dann habe ich es in meiner App umgesetzt. Die App liest die Kurse aus der JSON-D
 
 ![image](https://github.com/user-attachments/assets/b815346e-7a81-4fbe-b411-6685c6c64444)
 
-## Images
+## Images - Troubleshooting
 Beim Einfügen der Bilder ist mir ein Problem aufgefallen. Die Bilder wurden im Android-Emulator nicht angezeigt. Ich habe mehrere Stunden lang versucht, dieses Problem zu lösen. Nach längerer Recherche habe ich schließssich eine Lösung gefunden. Ich musste den Cache löschen. Das habe ich erreicht, indem ich den Emulator deinstalliert und erneut installiert habe.
 
 ![image](https://github.com/user-attachments/assets/f50d93d2-b8e6-463a-8b6c-9f2b40f689fb)
