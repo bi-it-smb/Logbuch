@@ -3,7 +3,8 @@
 ## Inhaltsverzeichnis  
 - [Einleitung](#einleitung)  
 - [Verwendete Technologien](#verwendete-technologien)  
-- [Funktionen](#funktionen)  
+- [Funktionen](#funktionen)
+- [Projektverlauf](#projektverlauf)
 - [Mockup](#mockup)
 - [UML-Klassendiagramm & Validation](#uml-klassendiagramm--validation)
 - [JSON](#json)
