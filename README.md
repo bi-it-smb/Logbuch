@@ -35,6 +35,9 @@ Link zum Mockup: [Figma Mockup](https://www.figma.com/proto/xDM8tOmfVx6oGUaGwT0l
 
 ## UML-Klassendiagramm & Validation
 
+![image](https://github.com/user-attachments/assets/751d0332-5b80-4c79-bebe-a69cf4c07b1b)
+
+
 ## JSON
 Ich habe die bereitgestellte JSON-Datei überarbeitet, da ich meine eigenen Kurse erstellt habe.
 ```
